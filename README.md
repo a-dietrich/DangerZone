@@ -14,6 +14,6 @@ Alternatively, the included makefile can be used. Before building, in the makefi
 
 ## Links
 
-[DASM](https://sourceforge.net/projects/dasm-dillon) macro assembler
+[DASM](https://github.com/dasm-assembler/dasm) macro assembler
 
 [Stella](https://stella-emu.github.io) Atari 2600 VCS emulator
